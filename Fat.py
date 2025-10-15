@@ -237,34 +237,34 @@ while True:
     Ingrese número según lo que desea hacer:
     1. Crear archivo
     2. Listar archivos
-    3. Papelera
-    4. Abrir archivo
-    5. Modificar archivo
-    6. Eliminar archivo
+    3. Abrir archivo
+    4. Modificar archivo
+    5. Eliminar archivo
+    6. Papelera
     7. Recuperar archivo
-    8. Permisos
-    9. Cambiar usuario
-    0. Salir''')
+    8. Permisos de los usuarios
+    9. Cambiar de usuario
+    10. Salir''')
     
     
 
-    op = input('Opción: ').strip()
+    op = input(' ').strip()
     if op == '1': 
         creardoc()
         input()
     elif op == '2': 
         listardocs()
         input()
-    elif op == '3': 
+    elif op == '6': 
         ver_papelera()
         input()
-    elif op == '4': 
+    elif op == '3': 
         abrirdoc()
         input()
-    elif op == '5': 
+    elif op == '4': 
         modificacion()
         input()
-    elif op == '6': 
+    elif op == '5': 
         eliminardoc()
         input()
     elif op == '7': 
@@ -276,7 +276,7 @@ while True:
     elif op == '9': 
         cambio_usuario()
         input()
-    elif op == '0': 
+    elif op == '10': 
         break
     else: print('Opción inválida.')
 

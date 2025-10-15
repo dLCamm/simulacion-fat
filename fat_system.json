@@ -117,6 +117,22 @@
         ],
         "escritura": []
       }
+    },
+    {
+      "nombre": "MiArchivo",
+      "ruta_datos_inicial": "37caaff1-5544-48e2-92b8-346c0cdd1068",
+      "papelera": false,
+      "cantidad_caracteres": 28,
+      "fecha_creacion": "2025-10-15T15:37:34.440613Z",
+      "fecha_modificacion": "2025-10-15T15:39:20.285890Z",
+      "fecha_eliminacion": null,
+      "usuario": "ElAdmin",
+      "permisos": {
+        "lectura": [
+          "Camilo"
+        ],
+        "escritura": []
+      }
     }
   ],
   "blocks": {
@@ -182,6 +198,16 @@
     },
     "e0e020ec-b3c5-4bb5-bc39-5dc4ea83f8b8": {
       "datos": "on del archivo",
+      "siguiente": null,
+      "eof": true
+    },
+    "37caaff1-5544-48e2-92b8-346c0cdd1068": {
+      "datos": "Esto es nuevo para m",
+      "siguiente": "a41962e0-79a3-4211-9d8e-c3b3813aace2",
+      "eof": false
+    },
+    "a41962e0-79a3-4211-9d8e-c3b3813aace2": {
+      "datos": "iarchivo",
       "siguiente": null,
       "eof": true
     }
