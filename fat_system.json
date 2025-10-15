@@ -1,0 +1,189 @@
+{
+  "fat": [
+    {
+      "nombre": "Hola",
+      "ruta_datos_inicial": "9aaaca62-250a-4050-8ae4-5b18b8a5820e",
+      "papelera": false,
+      "cantidad_caracteres": 31,
+      "fecha_creacion": "2025-10-15T00:42:36.820634Z",
+      "fecha_modificacion": "2025-10-15T00:42:36.820634Z",
+      "fecha_eliminacion": null,
+      "usuario": "ElAdmin",
+      "permisos": {
+        "lectura": [],
+        "escritura": []
+      }
+    },
+    {
+      "nombre": "Archivo2",
+      "ruta_datos_inicial": "c4a7637a-c168-4a9b-ada5-ed334595932d",
+      "papelera": false,
+      "cantidad_caracteres": 13,
+      "fecha_creacion": "2025-10-15T00:43:13.881391Z",
+      "fecha_modificacion": "2025-10-15T00:43:13.881391Z",
+      "fecha_eliminacion": null,
+      "usuario": "ElAdmin",
+      "permisos": {
+        "lectura": [],
+        "escritura": []
+      }
+    },
+    {
+      "nombre": "Documento1",
+      "ruta_datos_inicial": "67458812-6cf0-4e3c-9426-72194320d7e6",
+      "papelera": false,
+      "cantidad_caracteres": 27,
+      "fecha_creacion": "2025-10-15T03:45:55.583290Z",
+      "fecha_modificacion": "2025-10-15T03:45:55.583290Z",
+      "fecha_eliminacion": null,
+      "usuario": "ElAdmin",
+      "permisos": {
+        "lectura": [],
+        "escritura": []
+      }
+    },
+    {
+      "nombre": "Progra",
+      "ruta_datos_inicial": "7d9c6385-46cc-42d4-a268-1b4978464c2a",
+      "papelera": false,
+      "cantidad_caracteres": 24,
+      "fecha_creacion": "2025-10-15T03:49:16.484693Z",
+      "fecha_modificacion": "2025-10-15T03:49:55.801991Z",
+      "fecha_eliminacion": null,
+      "usuario": "ElAdmin",
+      "permisos": {
+        "lectura": [],
+        "escritura": []
+      }
+    },
+    {
+      "nombre": "Documentonuevo",
+      "ruta_datos_inicial": "94b3655d-acf0-449c-8d8f-decc24a485b2",
+      "papelera": false,
+      "cantidad_caracteres": 20,
+      "fecha_creacion": "2025-10-15T04:04:18.405154Z",
+      "fecha_modificacion": "2025-10-15T04:38:40.847772Z",
+      "fecha_eliminacion": null,
+      "usuario": "ElAdmin",
+      "permisos": {
+        "lectura": [
+          "Camilo"
+        ],
+        "escritura": []
+      }
+    },
+    {
+      "nombre": "JAJAJA",
+      "ruta_datos_inicial": "73cb5d1d-0dd7-4fdc-bbc5-55aad369e701",
+      "papelera": false,
+      "cantidad_caracteres": 30,
+      "fecha_creacion": "2025-10-15T04:07:48.910982Z",
+      "fecha_modificacion": "2025-10-15T04:07:48.910982Z",
+      "fecha_eliminacion": null,
+      "usuario": "ElAdmin",
+      "permisos": {
+        "lectura": [
+          "Camilo"
+        ],
+        "escritura": []
+      }
+    },
+    {
+      "nombre": "DocumentoEjemplo",
+      "ruta_datos_inicial": "1c28fb4f-6ac3-475c-9e1a-c35b45cb8dcb",
+      "papelera": false,
+      "cantidad_caracteres": 18,
+      "fecha_creacion": "2025-10-15T04:36:34.976543Z",
+      "fecha_modificacion": "2025-10-15T04:36:34.976543Z",
+      "fecha_eliminacion": null,
+      "usuario": "ElAdmin",
+      "permisos": {
+        "lectura": [],
+        "escritura": []
+      }
+    },
+    {
+      "nombre": "Hola1",
+      "ruta_datos_inicial": "2f8680b7-38f4-494b-a869-ee325c46988e",
+      "papelera": false,
+      "cantidad_caracteres": 34,
+      "fecha_creacion": "2025-10-15T05:04:56.189955Z",
+      "fecha_modificacion": "2025-10-15T05:06:15.603799Z",
+      "fecha_eliminacion": null,
+      "usuario": "ElAdmin",
+      "permisos": {
+        "lectura": [
+          "Camilo"
+        ],
+        "escritura": []
+      }
+    }
+  ],
+  "blocks": {
+    "9aaaca62-250a-4050-8ae4-5b18b8a5820e": {
+      "datos": "Juguets para el prox",
+      "siguiente": "cfe5b5fa-2195-4607-bc82-bfefcf8dee47",
+      "eof": false
+    },
+    "cfe5b5fa-2195-4607-bc82-bfefcf8dee47": {
+      "datos": "imo viernes",
+      "siguiente": null,
+      "eof": true
+    },
+    "c4a7637a-c168-4a9b-ada5-ed334595932d": {
+      "datos": "Hola a todos ",
+      "siguiente": null,
+      "eof": true
+    },
+    "67458812-6cf0-4e3c-9426-72194320d7e6": {
+      "datos": "Esto es para el docu",
+      "siguiente": "604f29bf-3af9-4c1e-8a5d-065165399939",
+      "eof": false
+    },
+    "604f29bf-3af9-4c1e-8a5d-065165399939": {
+      "datos": "mento 1",
+      "siguiente": null,
+      "eof": true
+    },
+    "7d9c6385-46cc-42d4-a268-1b4978464c2a": {
+      "datos": "else: (\"No es igual ",
+      "siguiente": "ba7c0272-6fd1-43b5-90c9-cb8a9a85241b",
+      "eof": false
+    },
+    "ba7c0272-6fd1-43b5-90c9-cb8a9a85241b": {
+      "datos": ":(\")",
+      "siguiente": null,
+      "eof": true
+    },
+    "73cb5d1d-0dd7-4fdc-bbc5-55aad369e701": {
+      "datos": "Esto es un doc de bu",
+      "siguiente": "ef5083b1-1340-484c-a2d4-4d374392d388",
+      "eof": false
+    },
+    "ef5083b1-1340-484c-a2d4-4d374392d388": {
+      "datos": "rla jajaja",
+      "siguiente": null,
+      "eof": true
+    },
+    "1c28fb4f-6ac3-475c-9e1a-c35b45cb8dcb": {
+      "datos": "for i in range(x):",
+      "siguiente": null,
+      "eof": true
+    },
+    "94b3655d-acf0-449c-8d8f-decc24a485b2": {
+      "datos": "Esto fue actualizado",
+      "siguiente": null,
+      "eof": true
+    },
+    "2f8680b7-38f4-494b-a869-ee325c46988e": {
+      "datos": "Esto es una correcci",
+      "siguiente": "e0e020ec-b3c5-4bb5-bc39-5dc4ea83f8b8",
+      "eof": false
+    },
+    "e0e020ec-b3c5-4bb5-bc39-5dc4ea83f8b8": {
+      "datos": "on del archivo",
+      "siguiente": null,
+      "eof": true
+    }
+  }
+}
